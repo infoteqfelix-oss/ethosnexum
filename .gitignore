@@ -1,0 +1,8 @@
+node_modules/
+.gradle/
+.idea/
+*.iml
+local.properties
+build/
+android/.gradle/
+android/app/build/
